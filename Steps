@@ -1,0 +1,19 @@
+JSP:
+New proj
+Dynamic web proj
+Create proj
+First file index.jsp
+rest files .jsp too
+-------------------
+Spring:
+File->new->other->spring->spring legacy project
+-------------------
+.java is also called class file. Package mai edu.met aayega sabse pehle
+-------------------
+Libraries add karne ke liye. Right click proj - build path - SpringLib (aana chahiye vaha) right side add lib then user lib and select spring
+-------------------
+select jstl if database is asked
+-------------------
+New - other - xml - AppCtx.xml
+___________________
+Database connectivity ke liye pgadmin on karo. Password is password. Fir postgres pe jaake right click - query tool - write command
